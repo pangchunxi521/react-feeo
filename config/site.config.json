@@ -1,5 +1,5 @@
 {
-  "title": "xxx网站",
+  "title": "{{name}}",
   "pxToRem":false,
   "token":true
 }

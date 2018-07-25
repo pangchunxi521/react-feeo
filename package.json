@@ -1,7 +1,7 @@
 {
   "name": "{{name}}",
   "version": "1.0.0",
-  "description": "{{description}}",
+  "description": "{{name}}",
   "main": "index.js",
   "scripts": {
     "entry": "node config/entry/entryBuild.js",
@@ -17,7 +17,7 @@
     "build-storybook": "build-storybook"
   },
   "keywords": [],
-  "author": "{{author}}",
+  "author": "{{name}}",
   "license": "ISC",
   "dependencies": {
     "react": "^16.4.0",
