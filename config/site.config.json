@@ -1,5 +1,5 @@
 {
   "title": "{{name}}",
-  "pxToRem":false,
-  "token":true
+  "pxToRem":"{{pxToRem}}",
+  "token":"{{token}}"
 }
