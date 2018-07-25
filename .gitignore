@@ -1,0 +1,10 @@
+.idea/
+.cache-loader/
+node_modules/
+devBuild/
+dist/
+entryBuild/
+pc/
+backup/
+npm-debug*
+package-lock.json
